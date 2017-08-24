@@ -11,4 +11,4 @@ can accurately determine the position with error distance less than two meters c
 In this Project, an android application was developed. The proposed method was implemented inside the android application.
 
 
-A paper was published at Melaha 2016 International Conference and Exhibition under supervision of Basem Amer, Prof. Aboelmagd Noureldin.
+A paper was published at Melaha 2016 International Conference and Exhibition under supervision of Eng. Basem Amer, Prof. Aboelmagd Noureldin.
