@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+		<shape>  
+            <gradient  
+                android:startColor="#008B8B"  
+                android:endColor="#E0FFFF"  
+                android:angle="270" />  
+            <stroke  
+                android:width="2dp"  
+                android:color="#dcdcdc" />  
+            <corners  
+                android:radius="6dp" />  
+            <padding  
+                android:left="2dp"  
+                android:top="2dp"  
+                android:right="2dp"  
+                android:bottom="2dp"/>
+        </shape> 
+    </item>
+
+        <!-- pressed -->
+    
+        
+    <item android:state_focused="true">
+        <shape>  
+            <gradient  
+                android:startColor="#68228B"  
+                android:endColor="#FF00FF"  
+                android:angle="270" />  
+            <stroke  
+                android:width="2dp"  
+                android:color="#dcdcdc" />  
+            <corners  
+                android:radius="6dp" />  
+            <padding  
+                android:left="2dp"  
+                android:top="2dp"  
+                android:right="2dp"  
+                android:bottom="2dp"/>
+        </shape>  
+    </item>
+       <!-- focused -->
+    
+<!-- 
+                android:startColor="#FF00FF"  
+                android:endColor="#68228B"
+                 
+                android:startColor="#551A8B"
+                android:endColor="#AB82FF"                   
+
+                android:startColor="#483D8B"
+                android:endColor="#8470FF"                 
+
+ -->       
+    <item>
+		<shape>  
+            <gradient  
+                android:startColor="#008B8B"
+                android:endColor="#E0FFFF"                 
+ 
+                android:angle="90" />  
+            <stroke  
+                android:width="2dp"  
+                android:color="#dcdcdc" />  
+            <corners  
+                android:radius="6dp" />  
+            <padding  
+                android:left="2dp"  
+                android:top="2dp"  
+                android:right="2dp"  
+                android:bottom="2dp"/>
+        </shape>  
+    </item> 
+    <!-- default -->
+</selector>

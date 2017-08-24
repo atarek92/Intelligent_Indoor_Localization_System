@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content" 
+	android:layout_width="wrap_content"
+	
+	android:background="#000000"
+	android:id="@+id/filenamedialog">
+	
+	<TextView android:id="@+id/tvname" 
+	    android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="File Name : " />
+
+	<EditText
+	    android:id="@+id/createFileName"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    
+	    android:inputType="text"
+	    android:maxLength="256" />
+	
+</LinearLayout>

@@ -1,0 +1,24 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 13
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        applicationId "com.ftdi.j2xx.hyperterm"
+        minSdkVersion 13
+        targetSdkVersion 13
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/d2xx.jar')
+}

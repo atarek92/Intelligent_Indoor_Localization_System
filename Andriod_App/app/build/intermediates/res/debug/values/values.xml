@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Google%20Drive/RMC/Ahmed/AndroidStudioProjects/Final/J2xxHyperTerm/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="baud_rate_1">        
+		<item>300</item>        
+		<item>600</item>        
+		<item>1200</item>        
+		<item>4800</item>        
+		<item>9600</item>        
+		<item>19200</item>        
+		<item>38400</item>        
+		<item>57600</item>
+		<item>115200</item>
+		<item>230400</item>    
+		<item>460800</item>
+		<item>921600</item>
+	</string-array>
+    <string-array name="baud_rate_2">        
+		<item>300</item>        
+		<item>600</item>        
+		<item>1200</item>        
+		<item>4800</item>        
+		<item>9600</item>        
+		<item>19200</item>        
+		<item>38400</item>        
+		<item>57600</item>
+		<item>115200</item>
+	</string-array>
+    <string-array name="data_bits">        
+		<item>7</item>        
+		<item>8</item>        
+	</string-array>
+    <string-array name="flow_control">        
+		<item>None</item>        
+		<item>CTS/RTS</item>
+		<item>DTR/DSR</item>
+		<item>XOFF/XON</item>		
+	</string-array>
+    <string-array name="parity">        
+		<item>None</item>        
+		<item>Odd</item>
+		<item>Even</item>
+		<item>Mark</item>
+		<item>Space</item>
+	</string-array>
+    <string-array name="port_list_1">        
+		<item>0</item>        
+	</string-array>
+    <string-array name="port_list_2">        
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+    <string-array name="port_list_3">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+    <string-array name="port_list_4">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+    <string-array name="port_list_5">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array>
+    <string-array name="port_list_6">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array>
+    <string-array name="port_list_7">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+	</string-array>
+    <string-array name="port_list_8">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array>
+    <string-array name="stop_bits">        
+		<item>1</item>        
+		<item>2</item>        
+	</string-array>
+    <string name="app_name">PDR and Zigbee modified Indoor Positioning System v1.0</string>
+    <string name="baudRate">Baud rate</string>
+</resources>

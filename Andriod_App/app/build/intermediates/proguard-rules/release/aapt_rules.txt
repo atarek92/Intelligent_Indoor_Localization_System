@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:19
+-keep class com.ftdi.j2xx.hyperterm.J2xxHyperTerm { <init>(...); }
+

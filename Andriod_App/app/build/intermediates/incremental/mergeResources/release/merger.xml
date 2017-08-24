@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res"><file name="bluedot" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\bluedot.gif" qualifiers="hdpi" type="drawable"/><file name="button_pattern" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\button_pattern.xml" qualifiers="hdpi" type="drawable"/><file name="button_pattern_2" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\button_pattern_2.xml" qualifiers="hdpi" type="drawable"/><file name="greendot" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\greendot.png" qualifiers="hdpi" type="drawable"/><file name="icon" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi" type="drawable"/><file name="map" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\map.gif" qualifiers="hdpi" type="drawable"/><file name="map_without_points" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\map_without_points.gif" qualifiers="hdpi" type="drawable"/><file name="reddot" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-hdpi\reddot.png" qualifiers="hdpi" type="drawable"/><file name="icon" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi" type="drawable"/><file name="icon" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi" type="drawable"/><file name="file_name_dialog" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\layout\file_name_dialog.xml" qualifiers="" type="layout"/><file name="main" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="my_spinner_textview" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\layout\my_spinner_textview.xml" qualifiers="" type="layout"/><file path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\values\strings.xml" qualifiers=""><string-array name="port_list_6">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+	</string-array><string-array name="port_list_5">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array><string-array name="port_list_8">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+	</string-array><string-array name="port_list_7">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+	</string-array><string-array name="parity">        
+		<item>None</item>        
+		<item>Odd</item>
+		<item>Even</item>
+		<item>Mark</item>
+		<item>Space</item>
+	</string-array><string-array name="port_list_2">        
+		<item>0</item>
+		<item>1</item>
+	</string-array><string-array name="port_list_1">        
+		<item>0</item>        
+	</string-array><string-array name="port_list_4">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array><string name="app_name">PDR and Zigbee modified Indoor Positioning System v1.0</string><string-array name="port_list_3">
+	    <item>0</item>        
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="stop_bits">        
+		<item>1</item>        
+		<item>2</item>        
+	</string-array><string name="baudRate">Baud rate</string><string-array name="baud_rate_2">        
+		<item>300</item>        
+		<item>600</item>        
+		<item>1200</item>        
+		<item>4800</item>        
+		<item>9600</item>        
+		<item>19200</item>        
+		<item>38400</item>        
+		<item>57600</item>
+		<item>115200</item>
+	</string-array><string-array name="baud_rate_1">        
+		<item>300</item>        
+		<item>600</item>        
+		<item>1200</item>        
+		<item>4800</item>        
+		<item>9600</item>        
+		<item>19200</item>        
+		<item>38400</item>        
+		<item>57600</item>
+		<item>115200</item>
+		<item>230400</item>    
+		<item>460800</item>
+		<item>921600</item>
+	</string-array><string-array name="data_bits">        
+		<item>7</item>        
+		<item>8</item>        
+	</string-array><string-array name="flow_control">        
+		<item>None</item>        
+		<item>CTS/RTS</item>
+		<item>DTR/DSR</item>
+		<item>XOFF/XON</item>		
+	</string-array></file><file name="device_filter" path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\build\generated\res\rs\release"/><source path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\Google Drive\RMC\Ahmed\AndroidStudioProjects\Final\J2xxHyperTerm\app\src\release\res"/></dataSet><mergedItems/></merger>
